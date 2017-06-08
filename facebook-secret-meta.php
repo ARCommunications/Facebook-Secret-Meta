@@ -3,13 +3,13 @@
  * Plugin Name: Facebook Secret Meta
  * Plugin URI: http://wpdeveloper.net/free-plugin/facebook-secret-meta/
  * Description: Only this Secret Meta plugin enables Facebook's brand-new Author By info at News Feed.
- * Version: 1.2.0
- * Author: WPDeveloper.net
- * Author URI: http://wpdeveloper.net
+ * Version: 1.2.1
+ * Author: WP Developer
+ * Author URI: https://wpdeveloper.net
  * License: GPLv2+
  * Text Domain: facebook-secret-meta
  * Min WP Version: 2.5.0
- * Max WP Version: 4.3.1
+ * Max WP Version: 4.8
  */
 
 
@@ -70,9 +70,9 @@ if ( current_user_can( 'install_plugins' ) )
      global $current_user ;
         $user_id = $current_user->ID;
         /* Check that the user hasn't already clicked to ignore the message */
-     if ( ! get_user_meta($user_id, 'fbsm_ignore_notice120') ) {
+     if ( ! get_user_meta($user_id, 'fbsm_ignore_notice121') ) {
         echo '<div class="updated"><p>';
-        printf(__('<b><a href="https://wpdeveloper.net/go/FSMPro" target="_blank">Facebook Secret Meta Pro</a></b> version is now available with Facebook all new byline at only <strong>$9.97 USD</strong>! Support the development!! <a href="%1$s">[Hide Offer]</a>'), admin_url( 'admin.php?page=facebook-secret-meta&fbsm_nag_ignore=0'));
+        printf(__('<b><a href="https://wpdeveloper.net/go/FSMPro" target="_blank">Facebook Secret Meta Pro</a></b> is now available with Facebook all new byline at only <strong>$19.97 USD</strong>! Support the development!! <a href="%1$s">[Hide Offer]</a>'), admin_url( 'admin.php?page=facebook-secret-meta&fbsm_nag_ignore=0'));
         echo "</p></div>";
      }
     }
@@ -85,7 +85,7 @@ function fbsm_nag_ignore() {
         $user_id = $current_user->ID;
         /* If user clicks to ignore the notice, add that to their user meta */
         if ( isset($_GET['fbsm_nag_ignore']) && '0' == $_GET['fbsm_nag_ignore'] ) {
-             add_user_meta($user_id, 'fbsm_ignore_notice120', 'true', true);
+             add_user_meta($user_id, 'fbsm_ignore_notice121', 'true', true);
      }
 }
 ?>

@@ -66,7 +66,7 @@ function fbsm_options_page()
 
 		 <h2>Facebook Secret Meta Option</h2>
 
-  <div style=" text-align:center; "><h2><b>Pro version is available now, <a href="http://wpdeveloper.net/go/FSMPro" target="_blank">get Pro</a>. Only $9.97 USD!!!</b></h2><br /></div>
+  <div style=" text-align:center; "><h2><b>Pro version is available now, <a href="http://wpdeveloper.net/go/FSMPro" target="_blank">get Pro</a>. Only $19.97 USD!!!</b></h2><br /></div>
 
 
             <form action="" method="post">
@@ -249,12 +249,21 @@ function fbsm_options_page()
  
 
 </div>
-   <div style=" text-align:center; "><b>Example:(<a href="https://www.facebook.com/WPDeveloperNet/posts/745027968850750" target="_blank">Live</a>)</b><br />
+   <div style=" text-align:center; "><b>Example:(<a href="https://www.facebook.com/WPDeveloperNet/posts/1260609520625923" target="_blank">Live</a>)</b><br />
   <!--<a target="_blank" href="http://wpdeveloper.net/free-plugin/facebook-secret-meta/"><img style="border:2px solid #ffffff;" src="<?php echo FBSM_PLUGIN_URL."/fsm-live-example-1rs.jpg" ?>" width="500" alt="Facebook Secret Meta" /></a>-->
   </div>
 <!-- embeded example -->
 <center>
-<div id="fb-root"></div><script>(function(d, s, id) {  var js, fjs = d.getElementsByTagName(s)[0];  if (d.getElementById(id)) return;  js = d.createElement(s); js.id = id;  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.3";  fjs.parentNode.insertBefore(js, fjs);}(document, 'script', 'facebook-jssdk'));</script><div class="fb-post" data-href="https://www.facebook.com/WPDeveloperNet/posts/964388203581391" data-width="500"><div class="fb-xfbml-parse-ignore"><blockquote cite="https://www.facebook.com/WPDeveloperNet/posts/964388203581391"><p>We are amazed by the Block Referral Spam community. In past one and half week, we got inputs from more then 50 users....</p>Posted by <a href="https://www.facebook.com/WPDeveloperNet">WPDeveloper</a> on&nbsp;<a href="https://www.facebook.com/WPDeveloperNet/posts/964388203581391">Saturday, July 4, 2015</a></blockquote></div></div>
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.9&appId=877140605715495";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+<div class="fb-post" data-href="https://www.facebook.com/WPDeveloperNet/posts/1260609520625923" data-width="500" data-show-text="true"><blockquote cite="https://www.facebook.com/WPDeveloperNet/posts/1260609520625923" class="fb-xfbml-parse-ignore"><p>The most secure and easiest way to give Support Access to your WordPress Dashboard. This is a simple Step by Step guide, you should bookmark this!</p>Posted by <a href="https://www.facebook.com/WPDeveloperNet/">WPDeveloper</a> on&nbsp;<a href="https://www.facebook.com/WPDeveloperNet/posts/1260609520625923">Friday, November 4, 2016</a></blockquote></div>
+
 <br /><br />
 </center>
 <!-- end embeded example -->

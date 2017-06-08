@@ -3,8 +3,8 @@ Contributors: Asif2BD, onetarek
 Donate link: http://wpdeveloper.net/go/FSMProDetails
 Tags: Facebook Meta, Facebook, Facebook SEO, Facebook status design, Facebook Sharing, Facebook post, Facebook Author Meta, Facebook New Meta, Facebook SEO, Facebook Share, Facebook News Feed, Facebook By, Facebook Secret Meta
 Requires at least: 2.5.0
-Tested up to: 4.3.1
-Stable tag: 1.2.0
+Tested up to: 4.8
+Stable tag: 1.2.1
 License: GPLv2+
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -97,6 +97,10 @@ More FAQs - [here](http://wpdeveloper.net/free-plugin/facebook-secret-meta/#tab3
 
 == Changelog ==
 
+= 1.2.1 - June 8, 2017 =
+* Compatible with WordPress 4.8
+* Minor fix, example works now.
+
 = 1.2.0 - September 26, 2015 =
 * Restructure to support new changes by Facebook.
 * Option Page updated.
@@ -117,7 +121,7 @@ More FAQs - [here](http://wpdeveloper.net/free-plugin/facebook-secret-meta/#tab3
 
 == Upgrade Notice ==
 
-= 1.2.0 =
+= 1.2.1 =
 * Must Update, Uptodate with Facebook recent byline and link changes. Option page changes for better control.
 
 

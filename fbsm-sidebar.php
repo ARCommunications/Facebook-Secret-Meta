@@ -1,7 +1,7 @@
 <div style="float:right; width:300px; min-height:400px; margin-top:50px;">
 <a target="_blank" href="https://wpdeveloper.net/"><img src="<?php echo FBSM_PLUGIN_URL."/wpdeveloper-logo-2.png" ?>" alt="Summery Card with Large Image" /></a>
 <br />
-<a class='button-primary' href="http://wpdeveloper.net/go/FSMPro" target="_blank">Pro Version</a>  <a  class='button-primary' style="color:#FFF600;" href="http://wordpress.org/support/view/plugin-reviews/facebook-secret-meta" target="_blank">Rate This Plugin</a>
+<a class='button-primary' href="https://wpdeveloper.net/go/FSMPro" target="_blank">Pro Version</a>  <a  class='button-primary' style="color:#FFF600;" href="http://wordpress.org/support/view/plugin-reviews/facebook-secret-meta" target="_blank">Rate This Plugin</a>
 
 
 
@@ -19,13 +19,13 @@
 
 		<ul> 
 
-		<li><a href="http://wpdeveloper.net" target="_blank">WPDeveloper.net</a></li>
+		<li><a href="https://wpdeveloper.net" target="_blank">WPDeveloper.net</a></li>
 
                 <li><a href="http://wordpress.org/support/plugin/facebook-secret-meta" target="_blank">WordPress.org Support Forum</a></li>
 
-                <li><a href="http://wpdeveloper.net/support" target="_blank">Premium Support</a></li>
+                <li><a href="https://wpdeveloper.net/support" target="_blank">Premium Support</a></li>
 
-		<li><a href="http://wpdeveloper.net/plugin/wp-author-report" target="_blank">WP Author Report</a></li>
+		<li><a href="https://wpdeveloper.net/plugin/wp-author-report" target="_blank">WP Author Report</a></li>
 
                 <li><a href="http://wordpress.org/plugins/twitter-cards-meta/" target="_blank">Twitter Cards Meta</a> [Hot]</li>
 
